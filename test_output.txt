@@ -1,0 +1,21 @@
+13
+-----
+16
+-----
+-10
+-----
+2.5
+-----
+16
+-----
+-2
+-----
+25
+-----
+3.5
+-----
+Error: division by zero
+-----
+Error: mismatched parentheses
+-----
+Error: expression ends with an operator
